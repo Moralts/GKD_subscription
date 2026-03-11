@@ -1,6 +1,6 @@
 {
-  "name": "@gkd-kit/subscription-template",
-  "version": "0.0.0",
+  "name": "@moralts/gkd_subscription",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "postinstall": "simple-git-hooks",
