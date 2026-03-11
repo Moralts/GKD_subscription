@@ -1,6 +1,6 @@
 {
   "name": "@moralts/gkd_subscription",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "type": "module",
   "scripts": {
     "postinstall": "simple-git-hooks",
