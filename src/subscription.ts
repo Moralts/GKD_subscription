@@ -6,7 +6,7 @@ import globalGroups from './globalGroups';
 export default defineGkdSubscription({
   id: 32767,
   name: 'Moralts 的 GKD 规则',
-  version: 2,
+  version: 3,
   author: 'Moralts',
   checkUpdateUrl: './gkd.version.json5',
   supportUri: 'https://github.com/Moralts/GKD_subscription',
