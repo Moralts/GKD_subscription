@@ -25,7 +25,7 @@ export default defineGkdApp({
           action: 'click',
           matches:
             '@View[visibleToUser=true][clickable=true][right>getPrev(2).width.div(2)][top<getPrev(2).height.div(2)] <n FrameLayout < [vid="fl_splash"] <<n [parent=null]',
-          snapshotUrls: 'https://i.gkd.li/i/25939059',
+          snapshotUrls: 'https://i.gkd.li/i/26462531',
         },
       ],
     },
